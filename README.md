@@ -1,2 +1,2 @@
-# Semantik-yapı-ile-web-sitesi
+# HTML-websitesi
 HTML dersleri sonucu web sitesi oluşturma
